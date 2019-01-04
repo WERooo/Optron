@@ -8,7 +8,7 @@ hook.Add( 'HUDPaint', 'test', function()
 		shit_gif:SetSize( 530, 130 )
 		shit_gif:SetPos( ScrW() / 2 - ( shit_gif:GetWide() / 2 ), 50 )
 		shit_gif:SetHTML( [[
-			<img src='https://werooohttp4.000webhostapp.com/text.gif' alt='gif' style='width:493px;height:110px;'>
+			<img src='text.gif' alt='gif' style='width:493px;height:110px;'>
 		]] )
 		
 	
